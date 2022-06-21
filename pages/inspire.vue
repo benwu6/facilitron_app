@@ -2,16 +2,16 @@
   <v-row>
     <v-col class="text-center">
       <img
-        src="/v.png"
+        src="/facilitron.png"
         alt="Vuetify.js"
         class="mb-5"
+        width = "400"
+        height = auto
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        &#8220;This is my first page for the Facilitron App.&#8221;
         <footer>
-          <small>
-            <em>&mdash;John Johnson</em>
-          </small>
+
         </footer>
       </blockquote>
     </v-col>
